@@ -19,3 +19,12 @@ h3 {
 #student {
     margin-left: 0px;
 }
+.A {
+    visibility: hidden;
+}
+#DCM {
+    margin-left: 0px;
+}
+th {
+    text-align: left;
+}
