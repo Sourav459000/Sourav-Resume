@@ -1,5 +1,7 @@
 body {
     background-color: #EAF6F6;
+    padding: 10px;
+    padding-bottom: 50px;
 }
 hr {
     width: 5%;
@@ -7,6 +9,7 @@ hr {
     border-width: 5px;
 }
 h1, h3, th{
+    font-family: 'Merriweather', serif;
     color: #00ADB5;
 }
 
@@ -27,4 +30,7 @@ h3 {
 }
 th {
     text-align: left;
+}
+p, td {
+    font-family: 'Montserrat', sans-serif;
 }
