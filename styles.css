@@ -21,6 +21,7 @@ h3 {
 }
 #student {
     margin-left: 0px;
+    text-decoration: none;
 }
 .A {
     visibility: hidden;
@@ -30,7 +31,14 @@ h3 {
 }
 th {
     text-align: left;
+    text-decoration: none;
 }
 p, td {
     font-family: 'Montserrat', sans-serif;
+}
+.emFont {
+    font-size: small;
+}
+.top-para {
+    margin-right: 2.5%;
 }
